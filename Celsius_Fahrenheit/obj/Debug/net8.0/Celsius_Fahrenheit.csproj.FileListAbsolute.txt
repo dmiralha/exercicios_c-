@@ -1,0 +1,14 @@
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\bin\Debug\net8.0\Celsius_Fahrenheit.exe
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\bin\Debug\net8.0\Celsius_Fahrenheit.deps.json
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\bin\Debug\net8.0\Celsius_Fahrenheit.runtimeconfig.json
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\bin\Debug\net8.0\Celsius_Fahrenheit.dll
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\bin\Debug\net8.0\Celsius_Fahrenheit.pdb
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\Celsius_Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\Celsius_Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\Celsius_Fahrenheit.AssemblyInfo.cs
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\Celsius_Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\Celsius_Fahrenheit.dll
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\refint\Celsius_Fahrenheit.dll
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\Celsius_Fahrenheit.pdb
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\Celsius_Fahrenheit.genruntimeconfig.cache
+C:\Users\dmira\Documents\Projetos\Celsius_Fahrenheit\Celsius_Fahrenheit\obj\Debug\net8.0\ref\Celsius_Fahrenheit.dll
